@@ -1,0 +1,7 @@
+.container{
+	background-image: url("../assets/backgrounds/landing.jpg");
+	background-color: blue;
+}
+.logo{
+	text-align: center;
+}

@@ -1,0 +1,107 @@
+
+#boy{
+	background-image: url("../assets/backgrounds/landing.jpg");
+	/*background-color: blue;*/
+	/*position: fixed;;*/
+	height: 100vh;
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+	/*text-align: center;*/
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	background-attachment: fixed;
+	
+
+}
+.logo{
+	text-align: center;
+	margin-top: 200px;
+	font-color: white;
+
+}
+.row{
+	margin-bottom:80px;
+
+}
+#provide
+{
+	
+}
+.menu {
+	/*background-image: url("../assets/backgrounds/foodsBg.jpg");*/
+
+}
+#fix{
+
+	/*font-style: solid;*/
+	font-size: 40px;
+	font-family:cursive;
+	font-color: ffff;
+}
+
+/*#content {
+	height: 3000px;
+	background-color: #fff;
+	z-index: 10000;
+}*/
+#party{
+	background-color: #F15A29;
+}
+#food{
+	cell-padding:50px;
+}
+.float: {
+	float: right;}
+/*#btn1{
+	background-color: white;
+	font-color:black;
+}	*/
+/*#btn1c{
+	font-color:back;
+	color:re*/
+	.btn-danger{
+		background-color: white;
+		color:red;
+	}
+.lay{
+background-image: url("../assets/backgrounds/foodsBg.jpg");
+height: 80vh;
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	background-attachment: fixed;;
+}
+.container{
+	max-height: 400px;
+
+}
+
+.last{
+	background-image: url("../assets/backgrounds/subscribe.jpg");
+height: 50vh;
+	background-repeat: no-repeat;
+	background-size:cover;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	background-attachment: fixed;;
+
+}
+#paragraph{
+	text-align: center;
+	background-color: #e6e5e8;
+	border-radius: 5px;
+}
+.final{
+	background-image: url("../assets/backgrounds/subscribe.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	height: 60vh;
+	display: flex;
+	background-size: cover;
+}

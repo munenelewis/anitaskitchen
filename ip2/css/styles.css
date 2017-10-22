@@ -102,6 +102,24 @@ height: 50vh;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	height: 60vh;
-	display: flex;
 	background-size: cover;
+		align-items:center;
+	text-align: center;
+	border-top: 80px;
+	justify-content:center;
+		margin-top: 200px;
+		position: relative;
+  padding: 200px ;
+  color: white;
+	
+}
+
+#input{
+	color: solid;
+	/*background-color: #ffffff;*/
+	width:400px;
+	height: 50px;
+	/*opacity: .4;*/
+	background-color: rgba(255, 255, 255, .4);
+	text-align: center;
 }

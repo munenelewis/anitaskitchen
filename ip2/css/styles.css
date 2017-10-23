@@ -39,6 +39,7 @@
 	font-size: 40px;
 	font-family:cursive;
 	font-color: ffff;
+	color: white;
 }
 
 /*#content {
@@ -192,4 +193,16 @@ background-color:#F15A29;
 .happy{
 height: 119px;
 width:200px;
+}
+.customer{
+	width: 90%;
+	margin-top:5%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	margin-right: 5%
+	 border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
